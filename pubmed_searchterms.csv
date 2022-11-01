@@ -1,0 +1,6 @@
+filename,pubmed_search_query
+abstract-pharmaco-set.txt,"pharmaco*[tiab] AND (""artificial* intelligen*""[tiab] OR ""machine learn*""[tiab] OR ""deep learn*"")"
+abstract-toxicology-set.txt,"toxicology*[tiab] AND (""artificial* intelligen*""[tiab] OR ""machine learn*""[tiab] OR ""deep learn*"")"
+abstract-precisiont-set.txt,"(precision*[ti] OR personalis*[ti]) AND (""artificial* intelligen*""[tiab] OR ""machine learn*""[tiab] OR ""deep learn*"")"
+abstract-adversedru-set.txt,"(""adverse drug""[tiab] OR ""drug reaction"" OR ""pharmacovig*""[tiab]) AND (""artificial* intelligen*""[tiab] OR ""machine learn*""[tiab] OR ""deep learn*"")"
+abstract-clinicaltr-set.txt,"(""clinical trial*""[tiab]) AND (""artificial* intelligen*""[tiab] OR ""machine learn*""[tiab] OR ""deep learn*"")"
