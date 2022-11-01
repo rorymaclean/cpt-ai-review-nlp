@@ -2,6 +2,7 @@
 """
 Author : Rory Maclean <rorymcln@gmail.com>
 Date   : 2022-11-01
+Acknowledge: https://towardsdatascience.com/from-dataframe-to-n-grams-e34e29df3460
 """
 
 import argparse
